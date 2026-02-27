@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
+.card { 
+    background-color: white;
+    font-size: large;
+}
 
 body{
-    background: white;
+    background: green;
+}
+
+.bottom-suit {
+  transform: rotate(180deg);
 }
